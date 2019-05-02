@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Utils.dll
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Utils.pdb
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Entities.dll
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Entities.pdb
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Entities.dll.config
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\obj\Debug\CRUD.WebAPI.Utils.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\obj\Debug\CRUD.WebAPI.Utils.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\obj\Debug\CRUD.WebAPI.Utils.csproj.CopyComplete
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\obj\Debug\Fagrontech.WebAPI.Utils.dll
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\Fagrontech.WebAPI.Utils\obj\Debug\Fagrontech.WebAPI.Utils.pdb
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\CRUD.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Utils.dll
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\CRUD.WebAPI.Utils\bin\Debug\Fagrontech.WebAPI.Utils.pdb
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\CRUD.WebAPI.Utils\obj\Debug\CRUD.WebAPI.Utils.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\CRUD.WebAPI.Utils\obj\Debug\Fagrontech.WebAPI.Utils.dll
+C:\Users\alexa\source\repos\fagrontech\CRUD.WebAPI\CRUD.WebAPI.Utils\obj\Debug\Fagrontech.WebAPI.Utils.pdb
